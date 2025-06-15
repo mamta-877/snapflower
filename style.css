@@ -1,0 +1,84 @@
+#head a{color:#4e4f4e; font-weight: bold;}
+#head a:hover{color: black;}
+#head h2{font-weight: 100px; font-size: 70px; color:#3d583d;}
+#home {background-image: url('img2.jpg'); background-size: 100%; padding: 200px 0px 0px 0px; background-attachment: fixed;}
+#home h1{font-weight: 100px; font-size: 70px; color:#69705f;}
+.extra {border:1px solid black;}
+.extra h4{color: black; font-weight: bold;}
+.extra button{background: transparent; padding: 100px 100px 100px 100px;}
+.extra button:hover{background-image: url('img4.jpg'); background-size: 100% 100%;}
+#work {padding: 130px 100px 130px 100px;}
+.about {padding: 100 70px 100px 70px;}
+#ootd {background-color:#fcfffe;}
+#ootd button:hover{color: white; background-color: black; border: 1px solid black;}
+#ootd button{color: black; background-color: white; border:1px solid black; border-radius: 0px;}
+#team {padding: 70px 70px 70px 70px;}
+#pic {padding: 50px 0px 90px 0px;}
+#pic2 {padding: 50px 0px 50px 0px; background-color:#fcfffe;}
+#our {padding: 70px 70px 70px 70px;}
+#create {padding: 0px 50px 100px 50px;}
+#botn button{color: black; background-color: white; border: 1px solid black; border-radius: 0px;}
+#botn button:hover{color: white; background-color: black; border: 1px solid black;}
+#botn {padding: 20px 0px 70px 0px;}
+#news {background-color: #fcfffe; padding: 50px 50px 50px 50px;}
+#news a{color: #4e4f4e; font-weight: bold}
+#news a:hover{color: black; font-weight: bold}
+#num h1{font-weight: 100px; font-size: 70px; color:#4e4f4e;}
+#num {background-image: url('img18.jpg'); background-size: 100%; padding: 200px 0px 0px 0px; background-attachment: fixed;}
+#plus {background-color: #ecf7f5; padding: 30px 30px 30px 30px;}
+#who img{border-radius: 600px;}
+#who {padding: 50px 50px 50px 30px;}
+#shoot {padding: 50px 0px 50px 0px;}
+#shoot button{border: 0.2px solid black; padding: 100px 100px 100px 100px; border-radius: 0px;
+background-color: #e0e6e0;}
+.shoot1:hover {background-image: url('img26.jpg'); background-size: 100% 100%;}
+.shoot2:hover {background-image: url('img26.jpg'); background-size: 100%;}
+.shoot3:hover {background-image: url('img26.jpg'); background-size: 100%;}
+#who button:hover{color: white; background-color: black; border: 1px solid black;}
+#who button {color: black; background-color: white; border:1px solid black; border-radius: 0px;}
+#image {padding: 50px 70px 50px 20px;}
+#firm button{border: 1px solid black; background-color: white; color: black; padding: 5px 30px 0px 30px;}
+#firm button:hover{border: 1px solid black; background-color: black; color: white;}
+#firm input{border: 1px solid black;}
+#farm button{border: 1px solid black; background-color: white; color: black; padding: 5px 30px 0px 30px;}
+#farm button:hover{border: 1px solid black; background-color: black; color: white;}
+#farm input{border: 1px solid black;}
+#tag {padding: 30px 50px 50px 215px;}
+#tag a{color: #4e4f4e; font-weight: bold;}
+#tag a:hover{color: black;}
+#port {background-image: url('img47.jpg'); background-size: 100%; padding: 200px 50px 200px 50px; 
+background-attachment: fixed; filter: blur(px);}
+#port h1{font-weight: 100px; font-size: 70px; color:#c2cac2;}
+#graph {padding: 90px 150px 50px 90px;}
+#graph h3{font-weight: lighter;}
+#foil {padding: 70px 50px 50px 50px;}
+#got {background-image: url('img48.jpg'); color: #fcfffe;}
+#got button{background-color: black; border: #fcfffe; color: #fcfffe; border-radius: 0px;}
+#got button:hover{background-color: #fcfffe; border: black; color: black;}
+.row1 {display: flex; flex-wrap: wrap; padding: 0 4px;}
+.column {flex: 25%; max-width: 25%; padding: 0 4px;}
+.column img {margin-top: 8px; vertical-align: middle; width: 100%;}
+@media screen and (max-width: 800px) {.column {flex: 50%; max-width: 50%;}}
+@media screen and (max-width: 600px) {.column {flex: 100%; max-width: 100%;}}
+#search{padding-top:50px; font-family:Script MT Bold;}
+#search button:hover{color:#cfcac6;}
+#search a:hover{color:#030303;}
+#beauty a:hover{color:#030303;}
+#beauty button{color:grey; border:1px solid grey; border-radius:0px;margin:10px;}
+#beauty button:hover{background:#030303; color:white;}
+#beauty a:hover{color:#030303;}
+#beauty{padding-bottom:100px;font-family:Script MT Bold;}
+.footer2 a:hover{color:#030303;}
+.footer2 a{color:grey;}
+#fashion{background-image:url('img49.jpg');height:200px; background-position:center; background-size:115%; padding-top:30px;}
+#panel {background-color:#565853;color:black; height:690px;}
+#panel a{color:black;}
+#panel a:hover{color:white;}
+#add h2{font-family:Script MT Bold;color:#557267;}
+.btnsubmit{border-radius:0px;}
+#board{background-image:url('icon38.jpg');background-size:cover; padding-left:40px;}
+#loginform h2{font-family:Script MT Bold;font-weight:bold;}
+#loginform button{border-radius:0px;}
+#form {padding: 50px 50px 50px 50px;}
+#block h2{color:black;font-family:Script MT Bold;}
+#block{ padding:50px 50px 50px 50px;}
